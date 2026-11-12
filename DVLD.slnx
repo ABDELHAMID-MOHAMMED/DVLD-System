@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../DVLDBussinessLayer/DVLDBussinessLayer.csproj" Id="5529cccc-bbc3-457f-ae8d-adaad4b55a49" />
+  <Project Path="../DVLDDataAccessLayer/DVLDDataAccessLayer.csproj" Id="9c1a74e5-09fc-4392-89c5-c7e9bedd7402" />
+  <Project Path="DVLD.csproj" Id="5f612be5-59ee-4f53-a7ab-3cc358b2a7dc" />
+</Solution>
